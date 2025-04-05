@@ -1,0 +1,12 @@
+E:/GSoC/PolygonBooleanOperationsVisualizerQT/build/CMakeFiles/boolean_operations.dir
+E:/GSoC/PolygonBooleanOperationsVisualizerQT/build/CMakeFiles/boolean_operations_gui.dir
+E:/GSoC/PolygonBooleanOperationsVisualizerQT/build/CMakeFiles/edit_cache.dir
+E:/GSoC/PolygonBooleanOperationsVisualizerQT/build/CMakeFiles/rebuild_cache.dir
+E:/GSoC/PolygonBooleanOperationsVisualizerQT/build/CMakeFiles/list_install_components.dir
+E:/GSoC/PolygonBooleanOperationsVisualizerQT/build/CMakeFiles/install.dir
+E:/GSoC/PolygonBooleanOperationsVisualizerQT/build/CMakeFiles/install/local.dir
+E:/GSoC/PolygonBooleanOperationsVisualizerQT/build/CMakeFiles/install/strip.dir
+E:/GSoC/PolygonBooleanOperationsVisualizerQT/build/CMakeFiles/boolean_operations_autogen_timestamp_deps.dir
+E:/GSoC/PolygonBooleanOperationsVisualizerQT/build/CMakeFiles/boolean_operations_autogen.dir
+E:/GSoC/PolygonBooleanOperationsVisualizerQT/build/CMakeFiles/boolean_operations_gui_autogen_timestamp_deps.dir
+E:/GSoC/PolygonBooleanOperationsVisualizerQT/build/CMakeFiles/boolean_operations_gui_autogen.dir
