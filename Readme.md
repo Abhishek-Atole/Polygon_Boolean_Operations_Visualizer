@@ -42,10 +42,14 @@
 ![Symmetric Difference Operation](resources/images/symmetric%20difference.png)
 
 **Video Demonstration:**  
+<!-- For local viewing and Markdown renderers that support HTML -->
 <video src="resources/demovideos/Demovideo.mp4" controls width="600">
   Your browser does not support the video tag.  
-  [Watch Demo Video](resources/demovideos/Demovideo.mp4)
+  <a href="resources/demovideos/Demovideo.mp4">Watch Demo Video</a>
 </video>
+
+<!-- For GitHub (which does not support <video>), provide a direct link: -->
+[▶️ Watch Demo Video](resources/demovideos/Demovideo.mp4)
 
 ## Architecture
 
